@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "サイレンススズカ",
-            "enName": "Silence Suzuka",
+            "enName": "",
             "jpText": "……今朝、\r\nフクキタルの占いで言われたんです。",
             "enText": "…… I was told this morning \nin a fukkital reading.",
             "nextBlock": 2,
@@ -16,7 +16,7 @@
         },
         {
             "jpName": "サイレンススズカ",
-            "enName": "Silence Suzuka",
+            "enName": "",
             "jpText": "『たい焼きで、最高の景色を見せてくれる\r\n相手が釣れる』……と。",
             "enText": "\"With a taiyaki, you can catch a partner who \nwill give you the best view.\"…… and.",
             "nextBlock": 3,
@@ -25,7 +25,7 @@
         },
         {
             "jpName": "サイレンススズカ",
-            "enName": "Silence Suzuka",
+            "enName": "",
             "jpText": "でも、全然釣れなくて……\r\n待ってるだけでは、ダメなんでしょうか。",
             "enText": "But I can't catch any fish at all.…… Can't we \njust wait and see?",
             "nextBlock": 4,
@@ -34,7 +34,7 @@
         },
         {
             "jpName": "サイレンススズカ",
-            "enName": "Silence Suzuka",
+            "enName": "",
             "jpText": "いっそ……見せてくれそうな子のお口に、\r\n入れてしまう……とか。",
             "enText": "I'd rather…… put it in the mouth of a girl \nwho is willing to show it to me.",
             "nextBlock": -1,
@@ -42,5 +42,5 @@
             "blockIdx": 4
         }
     ],
-    "modified": 1657476315
+    "modified": 1657471190
 }

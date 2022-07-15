@@ -18,7 +18,7 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "トレーナーさん、このドリンクの\r\nキャッチコピー……知ってますか？",
-            "enText": "Trainer, do you know the catchphrase \nfor this drink ……?",
+            "enText": "Trainer, do you know the catchphrase \nfor this drink..?",
             "nextBlock": 3,
             "pathId": -7697197385999236072,
             "blockIdx": 2
@@ -45,11 +45,11 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "ふふっ……もう1本、買っちゃおうかな。",
-            "enText": "Hmmm……… I think I'll buy another bottle.",
+            "enText": "Hmmm... I think I'll buy another bottle.",
             "nextBlock": -1,
             "pathId": 8416916912934103364,
             "blockIdx": 5
         }
     ],
-    "modified": 1657476315
+    "modified": 1657686785
 }

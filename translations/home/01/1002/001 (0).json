@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "サイレンススズカ",
-            "enName": "Silence Suzuka",
+            "enName": "",
             "jpText": "はぁ……ダメ……\r\nこれ以上はダメ、なのに……。",
             "enText": "Huh…… no…… no more, yet ……",
             "nextBlock": 2,
@@ -16,16 +16,16 @@
         },
         {
             "jpName": "サイレンススズカ",
-            "enName": "Silence Suzuka",
+            "enName": "",
             "jpText": "やっぱり、好き……好きなんだわ、私……。",
-            "enText": "I knew you liked…… I like ……",
+            "enText": "I knew you liked …… I like ……",
             "nextBlock": 3,
             "pathId": -8390013493944493144,
             "blockIdx": 2
         },
         {
             "jpName": "サイレンススズカ",
-            "enName": "Silence Suzuka",
+            "enName": "",
             "jpText": "ターフが……！",
             "enText": "The turf is at ……!",
             "nextBlock": 4,
@@ -34,7 +34,7 @@
         },
         {
             "jpName": "サイレンススズカ",
-            "enName": "Silence Suzuka",
+            "enName": "",
             "jpText": "……うん、後でもう1度走ろう。\r\nそれならオーバーワークじゃない、はず。",
             "enText": "……Yeah, let's run it again later. Then it's \nnot overwork, that's for sure.",
             "nextBlock": -1,
@@ -42,5 +42,5 @@
             "blockIdx": 4
         }
     ],
-    "modified": 1657476418
+    "modified": 1657471189
 }

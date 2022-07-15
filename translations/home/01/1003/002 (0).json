@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "トウカイテイオー",
-            "enName": "Tokai Teio",
+            "enName": "",
             "jpText": "やあやあトレーナー君！\r\n元気かね？",
             "enText": "Hey there, trainer! How are you?",
             "nextBlock": 2,
@@ -16,7 +16,7 @@
         },
         {
             "jpName": "トウカイテイオー",
-            "enName": "Tokai Teio",
+            "enName": "",
             "jpText": "ワガハイ、今日は“帝王”らしく\r\n喋ってみることに決めたぞよ♪",
             "enText": "Wagahai, I've decided to \ntalk like a \"king\" today.",
             "nextBlock": 3,
@@ -25,16 +25,16 @@
         },
         {
             "jpName": "トウカイテイオー",
-            "enName": "Tokai Teio",
+            "enName": "",
             "jpText": "威厳マシマシでイイ感じ……\r\nじゃなくて、素晴らしいと思わないかね？",
-            "enText": "It's not just dignified and nice…… don't you \nthink it's wonderful?",
+            "enText": "It's not just dignified and nice …… don't you \nthink it's wonderful?",
             "nextBlock": 4,
             "pathId": -5879350694009404852,
             "blockIdx": 3
         },
         {
             "jpName": "トウカイテイオー",
-            "enName": "Tokai Teio",
+            "enName": "",
             "jpText": "うーん、\r\n意外と難しいぞよ～～～～～！",
             "enText": "Well, it's harder than you think. ～～～～～!",
             "nextBlock": -1,
@@ -42,5 +42,5 @@
             "blockIdx": 4
         }
     ],
-    "modified": 1657476418
+    "modified": 1657471196
 }

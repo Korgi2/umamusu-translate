@@ -9,7 +9,7 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "さーてと。\r\nみんなはどこに隠れたかな～？",
-            "enText": "Well, let's see. Where did everyone hide～?",
+            "enText": "Well, let's see. Where did everyone \nhide～?",
             "nextBlock": 2,
             "pathId": -1402280012448425597,
             "blockIdx": 1
@@ -18,7 +18,7 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "マヤノもマーベラスも隠れるのに\r\nすぐ飽きそうだから――",
-            "enText": "Mayano and Marvelous are both going to get \ntired of hiding.",
+            "enText": "Mayano and Marvelous are both going \nto get tired of hiding.",
             "nextBlock": 3,
             "pathId": -8840549331654254241,
             "blockIdx": 2
@@ -27,7 +27,7 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "隠れるなら、暇つぶしができる\r\n購買かカフェかな！",
-            "enText": "If I'm going to hide, maybe I'll go to a \npurchase or a cafe where I can kill some time!",
+            "enText": "If I'm going to hide, maybe I'll go to a store \nor a cafe where I can kill some time!",
             "nextBlock": 4,
             "pathId": 4739594623785149004,
             "blockIdx": 3
@@ -36,11 +36,11 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "よーし！　テイオー様はかくれんぼでも\r\n強いってとこ、見せてやるぞー♪",
-            "enText": "All right! Let's show Teio-sama that we are \nstrong even in hide-and-seek!",
+            "enText": "All right! Teio-sama is strong even in \nhide-and-seek, I'll show you!",
             "nextBlock": -1,
             "pathId": -2523095957743049245,
             "blockIdx": 4
         }
     ],
-    "modified": 1657476315
+    "modified": 1657766118
 }

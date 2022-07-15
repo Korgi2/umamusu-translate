@@ -1,6 +1,6 @@
 {
     "version": 5,
-    "bundle": "NXCIUMG26NN2XOL4Y7AJRZ2HS67EKIM7",
+    "bundle": "FWAB77676RUYEPFAWIUMFAWYTZZXFNG4",
     "type": "home",
     "storyId": "011004003",
     "title": "0",
@@ -9,7 +9,7 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "最近は、食べたご飯やスイーツの写真を、\r\nネットでみんなに見せるんでしょ？",
-            "enText": "These days peeps post \npictures of the food and sweets on \nthe Internet for everyone to see, right?",
+            "enText": "These days peeps post pictures of the \nfood and sweets on the Internet for \neveryone to see, right?",
             "nextBlock": 2,
             "pathId": 2773967178423629192,
             "blockIdx": 1
@@ -18,7 +18,7 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "それならお姉さん、流行のとっておき\r\nウマスタ映えグルメを知ってるのよね～……！",
-            "enText": "If that's the case, big sis knows the \ntrendiest Equinstable foods～…!",
+            "enText": "If that's the case, big sis knows the \ntrendiest Uma foods~!",
             "nextBlock": 3,
             "pathId": -7722657484947694537,
             "blockIdx": 2
@@ -27,7 +27,7 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "その名も、ナタデココとティラミス！\r\nイタ飯とセットでバッチグーよ☆",
-            "enText": "Their names are… nata de coco and tiramisu! \nThey're absolutely fab with Italian food☆",
+            "enText": "Their names are… nata de coco and \ntiramisu! They're absolutely fab with \nItalian food☆",
             "nextBlock": 4,
             "pathId": -40916687321477937,
             "blockIdx": 3
@@ -42,5 +42,5 @@
             "blockIdx": 4
         }
     ],
-    "modified": 1657476418
+    "modified": 1657861327
 }

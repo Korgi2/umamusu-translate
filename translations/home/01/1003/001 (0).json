@@ -9,7 +9,7 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "ちょっと聞いてよトレーナー！",
-            "enText": "Just listen to me, trainer!",
+            "enText": "Hey, listen up, trainer!",
             "nextBlock": 2,
             "pathId": -2881666327035966511,
             "blockIdx": 1
@@ -18,7 +18,7 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "マヤノが『恋を知らないテイオーちゃんは\r\nまだまだコドモだよね～』って言うんだ！",
-            "enText": "Mayano says, 'Teio-chan who doesn't know love \nis still a kid!",
+            "enText": "Mayano says, 'Teio-chan who doesn't \nknow love is still a kid!'",
             "nextBlock": 3,
             "pathId": 4005436654426478425,
             "blockIdx": 2
@@ -36,7 +36,7 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "胸がドキドキしたり、苦しくなったりって\r\nすっごいレース観た時みたいなのでしょ？",
-            "enText": "It's like when you watch a great \nrace and your heart starts pounding \nand you feel pain, right?",
+            "enText": "It's like when you watch a great race and \nyour heart starts pounding and you feel \npain, right?",
             "nextBlock": 5,
             "pathId": -2584145020221794924,
             "blockIdx": 4
@@ -45,11 +45,11 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "……もー！　何笑ってんのさー！\r\n違うなら違うって言ってよー！",
-            "enText": "……! What are you laughing at! If you're not, \nsay you're not!",
+            "enText": "...! What are you laughing at! If you're not, \nsay you're not!",
             "nextBlock": -1,
             "pathId": -7098433468767642029,
             "blockIdx": 5
         }
     ],
-    "modified": 1657476315
+    "modified": 1657758939
 }
