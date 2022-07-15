@@ -7,7 +7,7 @@
     "text": [
         {
             "jpName": "スペシャルウィーク",
-            "enName": "Special Week",
+            "enName": "Specia Week",
             "jpText": "トレセン学園って\r\nほんと、おっきいですね！",
             "enText": "Tracen Academy is really big!",
             "nextBlock": 2,
@@ -18,7 +18,7 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "なんだか故郷の\r\nひろびろ原っぱを思い出します～。",
-            "enText": "It kind of reminds me of the \nopen fields in my hometown.",
+            "enText": "It kind of reminds me of the open fields \nin my hometown.",
             "nextBlock": 3,
             "pathId": -1115248711462775909,
             "blockIdx": 2
@@ -27,7 +27,7 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "……想像したら、なんだか\n走りたくなってきちゃった。",
-            "enText": "…… I just imagined it and it \nkind of makes me want to run.",
+            "enText": "I just imagined it and it kind of makes \nme want to run...",
             "nextBlock": 4,
             "pathId": -1542796392852698119,
             "blockIdx": 3
@@ -36,11 +36,11 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "って、ダメダメ！\r\n校内は走らない、走らない……。",
-            "enText": "And that means no, no, no! No running on \ncampus, no running. ……",
+            "enText": "And that means... no, no, no! No running \non campus, no running...",
             "nextBlock": -1,
             "pathId": -7374408768586712546,
             "blockIdx": 4
         }
     ],
-    "modified": 1657476315
+    "modified": 1657675508
 }

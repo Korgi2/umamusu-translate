@@ -9,7 +9,7 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "お母ちゃんから送られてきたチーズ、\r\nおいしかったなぁ……。",
-            "enText": "The cheese my mom sent me, \nit was delicious. ……",
+            "enText": "The cheese my mom sent me, it was \ndelicious...",
             "nextBlock": 2,
             "pathId": 2654566265293684077,
             "blockIdx": 1
@@ -27,7 +27,7 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "そうだ、トレーナーさん！\r\n学園で乳牛を飼ったらどうでしょう？",
-            "enText": "Yes, trainer! How about having \na dairy cow at the school?",
+            "enText": "Hey, trainer! How about having a dairy \ncow at the school?",
             "nextBlock": 4,
             "pathId": 5713426461198760676,
             "blockIdx": 3
@@ -45,7 +45,7 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "って、それじゃ\r\n学園が牧場になっちゃいますね……。",
-            "enText": "And that would turn the \nschool into a ranch. ……",
+            "enText": "And that would turn the school into \na ranch...",
             "nextBlock": 6,
             "pathId": 1053428764941578536,
             "blockIdx": 5
@@ -60,5 +60,5 @@
             "blockIdx": 6
         }
     ],
-    "modified": 1657476315
+    "modified": 1657675489
 }
