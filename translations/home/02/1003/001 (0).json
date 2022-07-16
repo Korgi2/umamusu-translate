@@ -9,7 +9,7 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "エアグルーヴってば\r\n先生とのお話、まだ終わらないのかなー？",
-            "enText": "Airgroove, I wonder if you and the doctor are \ndone talking yet?",
+            "enText": "Air Groove, I wonder if you and the doctor \nare done talking yet?",
             "nextBlock": 2,
             "pathId": -2044634994755568198,
             "blockIdx": 1
@@ -18,7 +18,7 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "待ちくたびれ過ぎて\r\n耳もしっぽもしおしおだよ～。",
-            "enText": "I'm so tired of waiting, my ears \nand tail are all wrinkled!",
+            "enText": "I'm so tired of waiting, my ears and tail are \nall wrinkled!",
             "nextBlock": 3,
             "pathId": 5030367827994467489,
             "blockIdx": 2
@@ -36,7 +36,7 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "カイチョーは気が長すぎだよ～。\r\nいつもはずーっと忙しそうにしてるのに！",
-            "enText": "Kaicho is too fidgety! She's \nusually busy all the time!",
+            "enText": "The president is too fidgety! She's usually \nbusy all the time!",
             "nextBlock": 5,
             "pathId": 1924426575460786289,
             "blockIdx": 4
@@ -63,7 +63,7 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "そ、そっか……！",
-            "enText": "Oh, I see. ……!",
+            "enText": "Oh, I see!",
             "nextBlock": 8,
             "pathId": -993137661656426061,
             "blockIdx": 7
@@ -81,7 +81,7 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "何話そっか？\r\nボクとカイチョーが出会った時のこと？",
-            "enText": "What are you talking about? \nAbout when I met Kaicho?",
+            "enText": "What are you talking about? About when I \nmet the president?",
             "nextBlock": 10,
             "pathId": 8850123875250795127,
             "blockIdx": 9
@@ -90,11 +90,11 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "……何の話題でも。\r\n君が楽しいと思う話を聞かせてくれ。",
-            "enText": "…… whatever the topic. Tell me stories you \nfind entertaining.",
+            "enText": "Whatever the topic. Tell me stories you \nfind entertaining.",
             "nextBlock": -1,
             "pathId": -5778458931568524346,
             "blockIdx": 10
         }
     ],
-    "modified": 1657476315
+    "modified": 1657778512
 }

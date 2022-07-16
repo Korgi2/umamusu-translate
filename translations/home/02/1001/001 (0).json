@@ -9,7 +9,7 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "こんなにいっぱいウマ娘さんがいるなんて\r\n……今でも不思議な気持ちです。",
-            "enText": "I still wonder…… how there \nare so many horsegirl.",
+            "enText": "I still wonder how there are so many \nhorsegirls...",
             "nextBlock": 2,
             "pathId": -8249525019251346763,
             "blockIdx": 1
@@ -18,7 +18,7 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "スペちゃんの故郷には\r\n他にウマ娘がいなかったのよね？",
-            "enText": "There were no other horsegirls in Spee's \nhometown, right?",
+            "enText": "There were no other horsegirls in your \nhometown, right?",
             "nextBlock": 3,
             "pathId": 7775262373362791245,
             "blockIdx": 2
@@ -27,7 +27,7 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "はい。だからちょっとだけ\r\n緊張しちゃう時もありますけど……。",
-            "enText": "Yes, I do. So sometimes I \nget a little nervous. ……",
+            "enText": "Yes. So sometimes I get a little \nnervous...",
             "nextBlock": 4,
             "pathId": -6096045219620915861,
             "blockIdx": 3
@@ -54,7 +54,7 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "友だち100人出来たら、\r\nみんなでピクニックに行きたいな～♪",
-            "enText": "When I have 100 friends, I want to take them \nall on a picnic.",
+            "enText": "When I have one hundred friends, I want \nto take them all on a picnic.",
             "nextBlock": 7,
             "pathId": 1303449551262423733,
             "blockIdx": 6
@@ -78,5 +78,5 @@
             "blockIdx": 8
         }
     ],
-    "modified": 1657476315
+    "modified": 1657742041
 }

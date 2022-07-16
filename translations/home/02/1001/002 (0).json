@@ -9,7 +9,7 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "スペちゃんスペちゃ～んっ！\r\n宿題、大変なんだって？",
-            "enText": "Hey, Spee-chan, Spee-chan! I heard you had a \nhard time with your homework.",
+            "enText": "Hey, Spee-chan, Spee-chan! I heard you \nhad a hard time with your homework?",
             "nextBlock": 2,
             "pathId": 733819703557558877,
             "blockIdx": 1
@@ -18,7 +18,7 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "そうなんです～っ！\n数学がどーにも難しくって……！",
-            "enText": "That's right! Math is so hard for me. ……!",
+            "enText": "That's right! Math is so hard for me!",
             "nextBlock": 3,
             "pathId": 2070593146366696529,
             "blockIdx": 2
@@ -27,7 +27,7 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "ならボクが教えてしんぜよー♪\nなんたってボクは優秀だからねっ！",
-            "enText": "Then I'll teach you… after \nall, I'm good at what I do!",
+            "enText": "Then I'll teach you. After all, I'm good at \nwhat I do!",
             "nextBlock": 4,
             "pathId": -3400376592857064759,
             "blockIdx": 3
@@ -36,7 +36,7 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "わぁっ、いいんですかっ！\nじゃあ、遠慮なく……。",
-            "enText": "Wow, okay! Then feel free to visit ……",
+            "enText": "Wow, okay! Then feel free to visit.",
             "nextBlock": 5,
             "pathId": 5786614673662757482,
             "blockIdx": 4
@@ -45,7 +45,7 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "あれ？　でもテイオーさんって\nひと学年下、ですよね……？",
-            "enText": "What's that? But Teio-san is a grade below \nyou, right? ……",
+            "enText": "Wait? But Teio-san you're a year younger \nthan me, right?",
             "nextBlock": 6,
             "pathId": -5513611437870783347,
             "blockIdx": 5
@@ -54,7 +54,7 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "あれ、そうだっけ？\nでも大丈夫、ボク頭いいもん♪",
-            "enText": "Oh, did I say that? But \ndon't worry, I'm smart.",
+            "enText": "Oh, did I say that? But don't worry, \nI'm smart.",
             "nextBlock": 7,
             "pathId": 860198797648126038,
             "blockIdx": 6
@@ -78,5 +78,5 @@
             "blockIdx": 8
         }
     ],
-    "modified": 1657476315
+    "modified": 1657676475
 }

@@ -18,7 +18,7 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "ほ、本当に？　見間違えとかじゃ……。",
-            "enText": "Oh, really? I thought I was looking at it \nwrong or something. ……",
+            "enText": "Oh, really? I thought I was looking at it \nwrong or something...",
             "nextBlock": 3,
             "pathId": -3818392829813048563,
             "blockIdx": 2
@@ -27,7 +27,7 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ブシに二言はナッシング！\r\nたしかにありマシタ！！",
-            "enText": "No one says it better than \nBushy! Yes, there is!",
+            "enText": "A samurai never goes back on her word! \nThere was indeed!",
             "nextBlock": 4,
             "pathId": 4179344133545469740,
             "blockIdx": 3
@@ -36,7 +36,7 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "河川敷と公園の草むらに、\r\nナルトみたいなサークルがグルグル～っと！",
-            "enText": "Naruto-like circles are circling the \nriverbanks and grassy areas of the park!",
+            "enText": "In the riverbed and in the grass in the park, \nNaruto-like circles are going round and \nround!",
             "nextBlock": 5,
             "pathId": 5115486612291162420,
             "blockIdx": 4
@@ -45,7 +45,7 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……え？\r\nどっちも私がトレーニングしてた場所だわ。",
-            "enText": "…… What? Those are both \nplaces I used to train.",
+            "enText": "...What? Those are both places I used \nto train.",
             "nextBlock": 6,
             "pathId": -3371137870207093847,
             "blockIdx": 5
@@ -54,7 +54,7 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ハッハァ～ン？\r\nさてはスズカがUFOを呼びましたネ？",
-            "enText": "Huh? Did tin cans call a UFO?",
+            "enText": "Huh? Did the tin cans call a UFO?",
             "nextBlock": 7,
             "pathId": 6816478081811217490,
             "blockIdx": 6
@@ -72,7 +72,7 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "（あら……でも前に発見された場所も、\r\n私が立ち寄った場所、だった……かも……？）",
-            "enText": "(Oh…… but the place where you were \nfound before was also a place I \nstopped by…… or maybe ……?)",
+            "enText": "(Oh, but the place where you found before \nwas also where I stopped by, maybe?)",
             "nextBlock": 9,
             "pathId": -6934659260202704652,
             "blockIdx": 8
@@ -81,7 +81,7 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……ウ、ウソでしょ。\r\n本当に私が、UFOを……？",
-            "enText": "……U, no way. Am I really the \none that made the UFO ……?",
+            "enText": "...uu, no way. Am I really the one that made \nthe UFO?",
             "nextBlock": 10,
             "pathId": -155386374409945199,
             "blockIdx": 9
@@ -90,11 +90,11 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "オーケーオーケー！\r\n今度屋上で試してみまショー☆",
-            "enText": "Okay, okay, okay! I'll try it \non the rooftop next time.",
+            "enText": "Okay, okay, okay! I'll try it on the rooftop \nnext time.",
             "nextBlock": -1,
             "pathId": -859186754271003621,
             "blockIdx": 10
         }
     ],
-    "modified": 1657476315
+    "modified": 1657740744
 }
